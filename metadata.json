@@ -1,0 +1,6 @@
+{
+  "name": "Zona Morta: Sobrevivência Urbana",
+  "description": "Jogo de sobrevivência zumbi com exploração de casas, ciclo dia-noite dinâmico, fome e sede, inventário realista, progressão de habilidades, crafting e construção de bases fortificadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
